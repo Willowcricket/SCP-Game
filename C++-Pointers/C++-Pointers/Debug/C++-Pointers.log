@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\takot.000\Documents\Intro to Programming\C++-Pointers\C++-Pointers\Source.cpp(122,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\takot.000\Documents\Intro to Programming\C++-Pointers\C++-Pointers\Source.cpp(128,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C++-Pointers.vcxproj -> C:\Users\takot.000\Documents\Intro to Programming\C++-Pointers\Debug\C++-Pointers.exe
